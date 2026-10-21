@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.9.12112.369 stable
+VisualStudioVersion = 18.9.12112.369
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackPropExperiments", "BackPropExperiments\BackPropExperiments.csproj", "{0AF9896D-F36E-4D56-BA89-8647F3DBD30E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackPropProgram", "BackPropProgram\BackPropProgram.csproj", "{0AF9896D-F36E-4D56-BA89-8647F3DBD30E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
